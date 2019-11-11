@@ -3,12 +3,11 @@
 
 # How to install:
   
-1.)Step1, Install Raspbian official mirror <br>
+1.)Step1, Install Raspbian <br>
 ====================================================
   a)Download Raspbian official mirror:<br>
   https://www.raspberrypi.org/downloads/<br>
-  b)Use“SDFormatter.exe”to Format your TF Card<br>
-  c)Use“Win32DiskImager.exe” Burning mirror to TF Card<br>
+  b)Use “Balena Etcher” to burn the raspbian image into your TF Card<br>
      
 2.) Step2, Clone this repository onto your pi and install<br>
 ====================================================
