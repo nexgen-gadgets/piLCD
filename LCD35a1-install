@@ -2,6 +2,7 @@
 
 sudo ./system_backup.sh
 
+sudo dpkg -i -B xinput-calibrator_0.7.5-1_armhf.deb
 if [ -f /etc/X11/xorg.conf.d/40-libinput.conf ]; then
 sudo rm -rf /etc/X11/xorg.conf.d/40-libinput.conf
 fi
