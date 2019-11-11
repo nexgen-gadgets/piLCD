@@ -7,7 +7,7 @@
 ====================================================
   a)Download Raspbian official mirror:<br>
   https://www.raspberrypi.org/downloads/<br>
-  b)Use “Balena Etcher” to burn the raspbian image into your TF Card<br>
+  b)Use “Balena Etcher” https://www.balena.io/etcher/ to burn the raspbian image into your TF Card<br>
      
 2.) Step2, Clone this repository onto your pi and install<br>
 ====================================================
